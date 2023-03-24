@@ -23,23 +23,12 @@
 
 ## Previous Winners
 
-<div class="table-wrapper">
-    <div class="table">
-    | Name | Age |  
-    |------|-----|
-    | John | 25  |
-    | Jane | 30  |
-    | Mark | 27  |
-    </div>
 
-    <div class="table">
-        | City     | Population |  
-        |----------|------------|
-        | New York | 8,175,133  |
-        | Chicago  | 2,695,598  |
-        | Houston  | 2,296,224  |
-    </div>
-</div>
+___
+
+|Table 1|Table 2|
+|--|--|
+|<table> <tr><th>Table 1 Heading 1</th><th>Table 1 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>|
 
 ## Prizes
 
